@@ -1,7 +1,6 @@
 # Hi there, I'm Victor 👋😃
 
-I'm learning *HTML*, *CSS*, and *JavaScript*. I have no experience doing professional projects using those languages,
-but **I'm training every day and improving my knowledge as it as possible**. And I'll upload all my projects to this repository.
+**Welcome to my repository!** Here I'll upload all my projects. 
 
 ## About me
 
